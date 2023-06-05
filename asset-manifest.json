@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed16481d.chunk.css",
-    "main.js": "/static/js/main.d20a429f.chunk.js",
-    "main.js.map": "/static/js/main.d20a429f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2ba3fec9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2ba3fec9.js.map",
-    "static/js/2.ae0575b5.chunk.js": "/static/js/2.ae0575b5.chunk.js",
-    "static/js/2.ae0575b5.chunk.js.map": "/static/js/2.ae0575b5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.685af6be8f544c65f3e6042598142074.js": "/precache-manifest.685af6be8f544c65f3e6042598142074.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ed16481d.chunk.css.map": "/static/css/main.ed16481d.chunk.css.map",
-    "static/js/2.ae0575b5.chunk.js.LICENSE.txt": "/static/js/2.ae0575b5.chunk.js.LICENSE.txt"
+    "main.css": "/allcountriesmatter.github.io/static/css/main.9d9e4ceb.css",
+    "main.js": "/allcountriesmatter.github.io/static/js/main.531ec45e.js",
+    "index.html": "/allcountriesmatter.github.io/index.html",
+    "main.9d9e4ceb.css.map": "/allcountriesmatter.github.io/static/css/main.9d9e4ceb.css.map",
+    "main.531ec45e.js.map": "/allcountriesmatter.github.io/static/js/main.531ec45e.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ba3fec9.js",
-    "static/js/2.ae0575b5.chunk.js",
-    "static/css/main.ed16481d.chunk.css",
-    "static/js/main.d20a429f.chunk.js"
+    "static/css/main.9d9e4ceb.css",
+    "static/js/main.531ec45e.js"
   ]
 }
