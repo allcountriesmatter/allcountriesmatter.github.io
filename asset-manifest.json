@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/allcountriesmatter.github.io/static/css/main.9d9e4ceb.css",
-    "main.js": "/allcountriesmatter.github.io/static/js/main.531ec45e.js",
+    "main.js": "/allcountriesmatter.github.io/static/js/main.e0ee42b5.js",
     "index.html": "/allcountriesmatter.github.io/index.html",
     "main.9d9e4ceb.css.map": "/allcountriesmatter.github.io/static/css/main.9d9e4ceb.css.map",
-    "main.531ec45e.js.map": "/allcountriesmatter.github.io/static/js/main.531ec45e.js.map"
+    "main.e0ee42b5.js.map": "/allcountriesmatter.github.io/static/js/main.e0ee42b5.js.map"
   },
   "entrypoints": [
     "static/css/main.9d9e4ceb.css",
-    "static/js/main.531ec45e.js"
+    "static/js/main.e0ee42b5.js"
   ]
 }
